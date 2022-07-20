@@ -1,0 +1,7 @@
+[2022-07-21 01:29:53,134][MainThread:3220][task_id:__main__][MyLogSettings.py:70][INFO][It works!]
+[2022-07-21 01:29:53,135][MainThread:3220][task_id:__main__][MyLogSettings.py:71][ERROR][error!]
+[2022-07-21 01:35:07,726][MainThread:21476][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][myLogger works!]
+[2022-07-21 01:35:58,460][MainThread:4528][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][myLogger works!]
+[2022-07-21 01:35:58,460][MainThread:4528][task_id:conf.MyLogSettings][start.py:11][INFO][I:\vs_code_pro\source-code\BloggerHtmlContentGenerate]
+[2022-07-21 01:53:21,674][MainThread:20808][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][MyLog works!]
+[2022-07-21 01:53:21,675][MainThread:20808][task_id:__main__][start.py:14][ERROR][I:\vs_code_pro\source-code\BloggerHtmlContentGenerate]
