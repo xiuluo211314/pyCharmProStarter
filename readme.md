@@ -53,7 +53,7 @@
 
 如果您觉得有用的话，欢迎来**捐赠**，请`阿洛`喝杯饮料！大家的支持就是我继续开源的动力哟~！
 
-WeChat & Alipay： [![](https://github.com/xiuluo211314/Note163Checkin/raw/main/images/pay_tool.png)](https://github.com/xiuluo211314/Note163Checkin/blob/main/images/pay_tool.png)
+WeChat & Alipay： ![image.png](https://tva1.sinaimg.cn/large/a08bbb05ly1h5xcve8ur6j211b0pmqeh.jpg)
 
 
 ## 注意事项
