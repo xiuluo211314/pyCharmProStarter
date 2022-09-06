@@ -5,3 +5,8 @@
 [2022-07-21 01:35:58,460][MainThread:4528][task_id:conf.MyLogSettings][start.py:11][INFO][I:\vs_code_pro\source-code\BloggerHtmlContentGenerate]
 [2022-07-21 01:53:21,674][MainThread:20808][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][MyLog works!]
 [2022-07-21 01:53:21,675][MainThread:20808][task_id:__main__][start.py:14][ERROR][I:\vs_code_pro\source-code\BloggerHtmlContentGenerate]
+[2022-09-07 00:01:22,131][MainThread:16484][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][MyLog works!]
+[2022-09-07 00:01:22,132][MainThread:16484][task_id:__main__][start.py:17][ERROR][I:\vs_code_pro\github]
+[2022-09-07 00:03:11,389][MainThread:18296][task_id:conf.MyLogSettings][MyLogSettings.py:70][INFO][MyLog works!]
+[2022-09-07 00:03:11,389][MainThread:18296][task_id:__main__][start.py:17][ERROR][I:\vs_code_pro\github]
+[2022-09-07 00:03:11,390][MainThread:18296][task_id:__main__][start.py:25][INFO][127.0.0.1]
